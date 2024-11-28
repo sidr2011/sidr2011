@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sidr2011
+- 👀 I’m interested in all types of code
+- 🌱 I’m currently learning about Robotics, web design, and ML
+- 📫 You can Reach me via my email
+- 😄 Pronouns: he/him
