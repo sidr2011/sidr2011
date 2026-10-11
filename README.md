@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @sidr2011
-- 👀 I’m interested in all types of code
-- 🌱 I’m currently learning about Robotics, web design, and ML
-- 📫 You can Reach me via my email
-- 😄 Pronouns: he/him
+About Me:
+
+Hi! My name is Siddharth Rajaram, and I'm a student at Sharon High School.
+
+- I and passonaite about robotics software.
+- I have startup experience at Orgiami Motion.
+- I participate in FIRST Tech Challenge robotics on team 19411 the Tech Tigers
+- Check out my LinkedIn and Portfollio Website
